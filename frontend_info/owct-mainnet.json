@@ -1,0 +1,14 @@
+[
+	{
+		"title": "One World Chain",
+		"url": "https://mainnet.oneworldchain.org",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png"
+	},
+	{
+		"title": "One World Chain Testnet",
+		"url": "https://testnet.oneworldchain.org",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png"
+	}
+]
