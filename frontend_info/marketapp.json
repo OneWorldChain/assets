@@ -9,9 +9,9 @@
 		],
 		"shortDescription": "The OWCT Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from One World Chain",
 		"external": true,
-		"site": "https://bridge.miexs.com/bridge",
+		"site": "https://bridge.oneworldchain.org",
 		"description": "The OWCT Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from One World Chain",
-		"url": "https://bridge.miexs.com/bridge"
+		"url": "https://bridge.oneworldchain.org"
 	},
 	{
 		"author": "OWCT Swap",
