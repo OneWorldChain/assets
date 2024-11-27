@@ -7,24 +7,24 @@
 		"categories": [
 			"Bridge"
 		],
-		"shortDescription": "The OWCT Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from One World Chain",
+		"shortDescription": "The OWCT multichain Bridge extension is the simplest, safest and cheapest way to transfer your OWCT between the One World Chain mainnet and the other three supported Blockchains. You can bridge to and from ETHEREUM, BASE or BNB Chain.",
 		"external": true,
 		"site": "https://bridge.oneworldchain.org",
-		"description": "The OWCT Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from One World Chain",
+		"description": "The OWCT multichain Bridge extension is the simplest, safest and cheapest way to transfer your OWCT between the One World Chain mainnet and the other three supported Blockchains. You can bridge to and from ETHEREUM, BASE or BNB Chain.",
 		"url": "https://bridge.oneworldchain.org"
 	},
 	{
-		"author": "OWCT Swap",
+		"author": "Icecream Swap",
 		"id": "owctswap",
-		"title": "OWCT Swap",
+		"title": "Icecream Swap",
 		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png",
 		"categories": [
 			"Swap"
 		],
-		"shortDescription": "The most popular AMM on OWCT by user count! Earn OWCTS through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by OWCT Swap), NFTs, and more, on a platform you can trust.",
+		"shortDescription": "This self improving AI DEX aggregator is a verified partner of the One World Chain network. The AI powered Decentralized Exchange aggregator improves with every swap. The more you trade, the smarter and more efficient the aggregator becomes.",
 		"site": "https://icecreamswap.com/swap?chain=oneworldmainnet",
 		"external": true,
-		"description": "The most popular AMM on OWCT by user count! Earn OWCT through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by OWCT Swap), NFTs, and more, on a platform you can trust.",
+		"description": "This self improving AI DEX aggregator is a verified partner of the One World Chain network. The AI powered Decentralized Exchange aggregator improves with every swap. The more you trade, the smarter and more efficient the aggregator becomes.",
 		"url": "https://icecreamswap.com/swap?chain=oneworldmainnet"
 	},
 	{
