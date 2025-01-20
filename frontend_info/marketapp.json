@@ -49,10 +49,10 @@
 		"categories": [
 			"Tools"
 		],
-		"shortDescription": "MULTISENDER",
+		"shortDescription": "Send or Airdrop any token on the One World Chain network to thousands of wallets with just a click. To use the Multisender Dapp, you can choose to upload a csv file with all the addresses or copy and paste the addresses manually into the provided box.",
 		"site": "https://multisender.oneworldchain.org",
 		"external": true,
-		"description": "MULTISENDER",
+		"description": "Send or Airdrop any token on the One World Chain network to thousands of wallets with just a click. To use the Multisender Dapp, you can choose to upload a csv file with all the addresses or copy and paste the addresses manually into the provided box.",
 		"url": "https://multisender.oneworldchain.org"
 	},
 	{
@@ -63,10 +63,10 @@
 		"categories": [
 			"Tools"
 		],
-		"shortDescription": "TOKEN CREATOR",
+		"shortDescription": "Create your own ERC20 cryptocurrency or Meme Tokens in less than a minute. Create with zero development skills by filling out a very short form and watch the magic happen.",
 		"site": "https://mint.oneworldchain.org",
 		"external": true,
-		"description": "TOKEN CREATOR",
+		"description": "Create your own ERC20 cryptocurrency or Meme Tokens in less than a minute. Create with zero development skills by filling out a very short form and watch the magic happen.",
 		"url": "https://mint.oneworldchain.org"
 	},
 	{
@@ -77,10 +77,10 @@
 		"categories": [
 			"Tools"
 		],
-		"shortDescription": "REWARDS STAKING",
+		"shortDescription": "Experience the power of Web3 with this cutting-edge Staking Portal solution. You can unlock the potential of letting your digital asset work for you with a secure and reliable staking experience. Stake your wrapped OWCT and Earn upto 0.5% APY.",
 		"site": "https://stake.oneworldchain.org",
 		"external": true,
-		"description": "REWARDS STAKING",
+		"description": "Experience the power of Web3 with this cutting-edge Staking Portal solution. You can unlock the potential of letting your digital asset work for you with a secure and reliable staking experience. Stake your wrapped OWCT and Earn upto 0.5% APY.",
 		"url": "https://stake.oneworldchain.org"
 	},
 	{
@@ -91,10 +91,10 @@
 		"categories": [
 			"Blockchain"
 		],
-		"shortDescription": "BLAST CHAIN (L2 - zkEVM)",
+		"shortDescription": "BLAST Chain is a Zero Knowledge Ethereum Virtual Machine (zkEVM) compatible Layer two (L2) Blockchain. It is built on the One World Chain network and uses OWCT as its native currency. The Integration with Ethereum Ecosystem provides users with security and a scalable high-speed access at a much lower cost.",
 		"site": "https://blastchain.org",
 		"external": true,
-		"description": "BLAST CHAIN (L2 - zkEVM)",
+		"description": "BLAST Chain is a Zero Knowledge Ethereum Virtual Machine (zkEVM) compatible Layer two (L2) Blockchain. It is built on the One World Chain network and uses OWCT as its native currency. The Integration with Ethereum Ecosystem provides users with security and a scalable high-speed access at a much lower cost.",
 		"url": "https://blastchain.org"
 	}
 ]
