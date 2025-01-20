@@ -28,17 +28,73 @@
 		"url": "https://icecreamswap.com/swap?chain=oneworldmainnet"
 	},
 	{
-		"author": "OWCT Staking",
+		"author": "Validator Staking",
 		"id": "owctstaking",
-		"title": "OWCT Staking",
+		"title": "Validator Staking",
 		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png",
 		"categories": [
 			"Staking"
 		],
-		"shortDescription": "OWCT Staking",
+		"shortDescription": "Validator Staking",
 		"site": "https://staking.oneworldchain.org",
 		"external": true,
-		"description": "OWCT Staking",
+		"description": "Validator Staking",
 		"url": "https://staking.oneworldchain.org"
+	},
+	{
+		"author": "MULTISENDER",
+		"id": "multisender",
+		"title": "MULTISENDER",
+		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png",
+		"categories": [
+			"Tools"
+		],
+		"shortDescription": "MULTISENDER",
+		"site": "https://multisender.oneworldchain.org",
+		"external": true,
+		"description": "MULTISENDER",
+		"url": "https://multisender.oneworldchain.org"
+	},
+	{
+		"author": "TOKEN CREATOR",
+		"id": "tokencreator",
+		"title": "TOKEN CREATOR",
+		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png",
+		"categories": [
+			"Tools"
+		],
+		"shortDescription": "TOKEN CREATOR",
+		"site": "https://mint.oneworldchain.org",
+		"external": true,
+		"description": "TOKEN CREATOR",
+		"url": "https://mint.oneworldchain.org"
+	},
+	{
+		"author": "REWARDS STAKING",
+		"id": "rewardstaking",
+		"title": "REWARDS STAKING",
+		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/icon.png",
+		"categories": [
+			"Tools"
+		],
+		"shortDescription": "REWARDS STAKING",
+		"site": "https://stake.oneworldchain.org",
+		"external": true,
+		"description": "REWARDS STAKING",
+		"url": "https://stake.oneworldchain.org"
+	},
+	{
+		"author": "BLAST CHAIN (L2 - zkEVM)",
+		"id": "blastchain",
+		"title": "BLAST CHAIN (L2 - zkEVM)",
+		"logo": "https://raw.githubusercontent.com/OneWorldChain/assets/master/frontend_info/marketpale-logos/blastlogo.png",
+		"categories": [
+			"Blockchain"
+		],
+		"shortDescription": "BLAST CHAIN (L2 - zkEVM)",
+		"site": "https://blastchain.org",
+		"external": true,
+		"description": "BLAST CHAIN (L2 - zkEVM)",
+		"url": "https://blastchain.org"
 	}
 ]
